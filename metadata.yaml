@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4528
     wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41769#Corneille-expliqu--aux-enfants
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2013-01-03'
 gutenberg_type: Text
